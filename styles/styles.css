@@ -1,0 +1,458 @@
+
+.bg-colore-need{
+  background: linear-gradient(to bottom, rgb(252, 240, 218), rgb(238, 220, 163)); 
+  /* border-radius: 10px; */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.navbar-yo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Ensures vertical alignment */
+    padding: 10px 20px; /* Optional padding for overall navbar spacing */
+    /* background-color: #d6f9fd;  */
+}
+
+.display-flex {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.joti-yu {
+    display: flex;
+    gap: 20px; 
+    padding-left: 30px;
+}
+
+.joti-yu h2 {
+    margin: 0; 
+    padding: 10px 20px; 
+    cursor: pointer; 
+}
+
+.button-ek {
+    font-size: large;
+    padding: 10px 20px; 
+    /* margin: 5px 10px; */
+    border-radius: 10%;
+    cursor: pointer;
+    color: white;
+    background-color: orange;
+    border: none;
+}
+
+.wid-bara img {
+  width: 20px; 
+  height: auto; 
+}
+/* color for nav */
+.mama-ek{
+  color: orange;
+}
+.mama-doi{
+  color: skyblue;
+}
+.magma-tin{
+  color: rgba(5, 212, 223, 1);
+}
+.mama-char{
+  color: rgba(93, 88, 239, 1);
+}
+.section-ek{
+
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  /* background-color: rgb(205, 233, 224); */
+  /* border: 5px solid black; */
+}
+.banner-ek{
+  padding-left: 40px;
+}
+.banner-doi{
+
+}
+.banner-hek{
+  font-size: 50px;
+}
+.banner-p{
+  font-size: 30px;
+}
+.banner-btn{
+  margin-top: 20px;
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  border-radius: 10%;
+  border: none;
+  padding: 20px;
+}
+/* section doi start */
+.section-doi{
+/* background-color: #d6f9fd; */
+}
+.size-homan-kor{
+  text-align: center;
+font-size: 46px;
+margin: 0%;
+padding: 20px;
+}
+
+.gradient-div-ek {
+  display: flex;
+  gap: 20px; 
+  justify-content: space-evenly;
+}
+
+.mar-grdy-ek {
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  padding: 20px;
+  background: linear-gradient(to bottom, blue, white); 
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.mar-grdy-doi {
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  padding: 20px;
+  background: linear-gradient(to bottom, orange, white); 
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.mar-grdy-tin {
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  padding: 20px;
+  background: linear-gradient(to bottom, purple, white); 
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.mar-grdy-ek img, .mar-grdy-doi img, .mar-grdy-tin img {
+  width: 100px;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.mar-grdy-ek h2, .mar-grdy-doi h2, .mar-grdy-tin h2 {
+  font-size: 20px;
+  color: #333;
+  margin: 10px 0;
+}
+
+.color-ek {
+  color: rgba(128, 128, 128, 1);
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.mar-grdy-ek button {
+  padding: 10px 20px;
+  
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.mar-grdy-doi button{
+  padding: 10px 20px;
+ 
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.mar-grdy-tin button{
+  padding: 10px 20px;
+  
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.button-er-dibba{
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
+  gap: 20px;
+  /* padding: 20px; */
+}
+.dibbar-btn-ek, .dibbar-btn-doi{
+  color: white;
+  background-color: orange;
+  font-size: 25px;
+  padding: 20px;
+  border-radius: 40%;
+  border: none;
+}
+/* main er section e aisire onek koste off kosto  */
+
+.main-er-sc-ek{
+justify-content: center;
+/* text-align: center; */
+
+}
+.main-er-sc-ek-er-hek{
+  justify-content: center;
+  text-align: center;
+font-size: 46px;
+}
+
+.btn-er-aline{
+  justify-content: center;
+  text-align: center;
+}
+.view-mara-btn{
+  margin-bottom: 5px;
+}
+.asol-dibba {
+  display: grid;
+  grid-template-columns: 2fr 3fr; /* Two sections: left (hide-korouna-dibba) and right (4 dibbas) */
+  gap: 20px;
+}
+
+
+
+.ek-loge-chirta-dibba {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Creates two columns for the dibbas */
+  gap: 10px; /* Spacing between the dibbas */
+  /* height: 771px; */
+}
+
+
+
+.hide-korouna-dibba{
+  /* text-align: center; */
+  grid-column: 1 / 2; 
+  align-self: start;
+    width: 540px;
+    height: 771px;
+    border: 1px solid #ccc;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+/* trying */
+background: linear-gradient(to bottom, rgb(126, 126, 223), white); 
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+}
+
+.date-button{
+  /* align-items: flex-start; */
+  color: white;
+  background-color: rgba(60, 216, 232, 1);
+  border-radius: 47px;
+  border: none;
+  font-size: 20px;
+  /* margin: -10px; */
+  margin-top: -30px;
+  margin-left: 30px;
+  padding: 20px;
+}
+.dibar-hek{
+padding: 10px;
+}
+.dibbar-p{
+padding: 10px;
+}
+/* charta dibar css */
+/* image er size re */
+.imramega-man{
+  width: 100%;
+  /* max-width: 400px; */
+}
+
+
+/* proti ta dibbar css */
+.mobile-er-dibba-ek{
+  width: 70%; 
+  max-width: 400px; 
+  border: 1px solid #ccc;
+  /* background-color: white; */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  /* trying */
+  background: linear-gradient(to bottom, rgb(177, 118, 216), white); 
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.mobile-er-dibba-doi{
+  width: 70%;
+    max-width: 400px; 
+    border: 1px solid #ccc;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    /* trying */
+    background: linear-gradient(to bottom, rgb(177, 118, 216), white); 
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.mobile-er-dibba-tin{
+  width: 70%; 
+  max-width: 400px; 
+  border: 1px solid #ccc;
+  background-color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  /* traying */
+  background: linear-gradient(to bottom, rgb(30, 172, 72), white); 
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.mobile-er-dibba-char{
+  width: 70%; 
+    max-width: 400px; 
+    border: 1px solid #ccc;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    /* traying */
+    background: linear-gradient(to bottom, rgb(30, 172, 72), white); 
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.btn-color-green{
+  background-color: green;
+}
+.btn-color-blue{
+  background-color: darkblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* fotamiyar section  */
+
+.fotamiya{
+background-color: skyblue;
+}
+.section-ek-fotamiya{
+display: flex;
+gap: 20px;
+justify-content: space-around;
+
+}
+.dibba-miya-tin{
+  display: block;
+}
+
+
+
+
+
+
+/* i gess fota miya done */
+@media (max-width: 768px) { 
+   
+    .joti-yu h2 {
+      display: none; 
+    }
+  
+    .nav-bold, .button-ek{
+      display: none;
+    }
+    .navbar-yo {
+      justify-content: space-between; 
+    }
+    .display-flex {
+      justify-content: flex-start; 
+    }
+  .section-ek{
+    flex-direction: column-reverse;
+    justify-content: center;
+  }
+  .banner-doi{
+    text-align: center;
+    justify-content: center;
+    /* width: 20px; */
+  }
+   .imrameg{
+    width: 357px;
+   }
+.gradient-div-ek{
+flex-direction: column;
+align-items: center;
+justify-content: center;
+gap: 20px;
+}
+/* Our section */
+.asol-dibba {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: center; 
+  gap: 20px;
+  /* height: 100vh;  */
+}
+
+.hide-korouna-dibba {
+  display: none; 
+}
+
+.ek-loge-chirta-dibba {
+  display: grid;
+  grid-template-columns: 1fr; 
+  gap: 20px; 
+  justify-content: center;
+}
+
+.mobile-er-dibba-ek,
+.mobile-er-dibba-doi,
+.mobile-er-dibba-tin,
+.mobile-er-dibba-char {
+  width: 100%; 
+  text-align: center; 
+}
+
+
+
+/* fotamiyar section er mediya */
+.fotamiya{
+
+}
+.section-ek-fotamiya{
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+
+}
+.text-for-mdia{
+  justify-content: center;
+  text-align: center;
+
+}
+
+  }
+ 
