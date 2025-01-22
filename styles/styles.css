@@ -398,6 +398,12 @@ justify-content: space-around;
     justify-content: center;
     /* width: 20px; */
   }
+  .dibbar-btn-doi{
+    display: none;
+  }
+  .dibbar-btn-ek{
+    display: none;
+  }
    .imrameg{
     width: 357px;
    }
